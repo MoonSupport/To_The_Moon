@@ -1,6 +1,7 @@
 # To The Moon
 
-플레이 주소: https://moonsupport.github.io/tothemoon_deploy/
+플레이 주소: https://moonsupport.oopy.io/
+우측 상단 Playground에서 플레이 가능
 
 
 ## 미션 : 총 9개의 문문을 먹고 달을 향해라.
