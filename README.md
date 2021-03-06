@@ -1,6 +1,7 @@
 # To The Moon
 
 플레이 주소: https://moonsupport.oopy.io/
+스코어 보드: https://moonsupport.oopy.io/to-the-moon/score
 
 우측 상단 Playground에서 플레이 가능
 
